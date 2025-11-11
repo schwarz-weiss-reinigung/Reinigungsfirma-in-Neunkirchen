@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /
+
+# Sitemap Location
+Sitemap: https://reinigung-bblank-5ea2fccc9ba1.herokuapp.com/sitemap.xml
+
+# Google Bot
+User-agent: Googlebot
+Allow: /
+
+# Bing Bot
+User-agent: Bingbot
+Allow: /
+
+# Yandex Bot
+User-agent: Yandex
+Allow: /
