@@ -8,7 +8,7 @@
 
 // Meta Information
 $pageTitle = "Gebäudereinigung Neunkirchen: Der ultimative Leitfaden";
-$metaDescription = "Professionelle Gebäudereinigung in Neunkirchen - Erfahren Sie, warum Sauberkeit für Ihr Unternehmen entscheidend ist und wie Sie den richtigen Partner finden.";
+$metaDescription = "Professionelle Gebäudereinigung in Neunkirchen - Erfahren Sie, warum Sauberkeit für Ihr Unternehmen entscheidend ist und wie Sie den richtigen Partner.";
 $keywords = "Gebäudereinigung, Neunkirchen, Reinigungsfirma, Baureinigung, Fensterreinigung, Praxisreinigung";
 
 // Company Information
@@ -26,6 +26,7 @@ $currentYear = date('Y');
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="google-site-verification" content="3mzUiSIoLmrq_m8ZCPRRbJlnHo78RZncHEqYA3HMC7g" />
     <meta name="description" content="<?php echo htmlspecialchars($metaDescription); ?>">
     <meta name="keywords" content="<?php echo htmlspecialchars($keywords); ?>">
     <meta name="robots" content="index, follow">
